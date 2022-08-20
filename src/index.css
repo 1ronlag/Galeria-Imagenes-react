@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+ background-image: url(../src/Img/street.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ 
+}
+
+.Container{
+
+display: flex;
+flex-wrap: wrap;
+gap: 20px;
+margin-left: 30px;
+
+
+}
+
+img{
+
+width: 430px;
+height: 300px;
+}
+
+.titulo{
+
+  font-size: 75px;
+  font-weight: bolder;
+  color:#ccc;
+  text-align: center;
+
+}
+
+.Card{
+  background-color:whitesmoke;
+
+}
+
+.finalText{
+margin-top: 165px;
+color:#ccc;
+font-size: 25px;
+
+
+}
